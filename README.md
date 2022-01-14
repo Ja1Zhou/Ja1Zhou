@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently an undergraduate student from school of EECS
 <!--
 **Ja1Zhou/Ja1Zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
